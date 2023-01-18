@@ -13,12 +13,19 @@ Used Python and Jupyter Notebook
 **EDA Steps Involved in the Project:**
 
 Basic Exploration
+
 Data	Cleaning
+
 Outlier Detection
+
 Finding Skewness
+
 Univariate and Multivariate Analysis
+
 Correlation using Heatmap
+
 Key Insights
+
 Project Conclusion
 
 **Pymysql Connection**
