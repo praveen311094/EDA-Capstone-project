@@ -10,7 +10,7 @@ Libraries used: Numpy, Pandas, Seaborn, Matplotlib
 
 Used Python and Jupyter Notebook
 
-**EDA Steps Involved in the Project:**
+**Steps Involved in the Project:**
 
 Basic Exploration
 
